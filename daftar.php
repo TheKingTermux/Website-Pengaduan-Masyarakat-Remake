@@ -88,7 +88,7 @@
     <link rel="icon" href="../image/register.png">
 </head>
 
-<body style="background: #23242a">
+<body style="background: #0b111e">
     <div class="box" style="height: 800px">
         <div class="form">
             <form action="#" method="POST" onsubmit="return verifyPassword()">
